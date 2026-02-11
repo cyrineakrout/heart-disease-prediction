@@ -1,5 +1,6 @@
 # BRFSS Classification — Regularized Logistic Regression with Robust Preprocessing 
 📄 [Report here](report.pdf)
+
 This repository trains a binary classifier on tabular health survey data using a robust preprocessing pipeline and regularized logistic regression.  
 The run.py file outputs a submission.csv file with predictions for the test set.
 
